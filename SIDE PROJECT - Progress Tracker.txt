@@ -68,7 +68,8 @@ MODULES:
 	- Reps per sets
 	- Weight (Weighted calisthenic or weightlifting) per set
 
-
+UPDATE:
+- The app can now display data, however it currently does not display the analysis regarding the progress made. Other small functionalities such as sorting is still not yet also implemented. Still has many bugs to fix, more so with SQL in adding and deleting logs 
 
 
 
